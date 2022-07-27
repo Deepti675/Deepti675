@@ -2,14 +2,16 @@
 <h3 align="center">M.Tech(CSE) student at IIT Jodhpur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepti675&label=Profile%20views&color=0e75b6&style=flat" alt="deepti675" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepti675" alt="deepti675" /></a> </p>
 
 - 🔭 I’m currently working on **Hindi Scene Text Recognition**
 
 - 🌱 I’m currently learning **Deep Learning and Computer Vision**
 
-- 💬 Ask me about **Android Development, Machine Learning, C++, Competitive Programming**
+- 💬 Ask me about **Data Structures, Operating System, DBMS,Object Oriented Programming, Android Development, Machine Learning, C++, Competitive Programming**
 
 - 📫 How to reach me **deeptiguptaa13@gmail.com**
+- 📄 Hobbies (Painting,Sketching and Speed Cubing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
