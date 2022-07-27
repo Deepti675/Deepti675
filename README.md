@@ -8,10 +8,10 @@
 
 - 🌱 I’m currently learning **Deep Learning and Computer Vision**
 
-- 💬 Ask me about **Data Structures, Operating System, DBMS,Object Oriented Programming, Android Development, Machine Learning, C++, Competitive Programming**
+- 💬 Ask me about **Data Structures, Operating System, DBMS, Object Oriented Programming, Machine Learning, C++, Competitive Programming**
 
 - 📫 How to reach me **deeptiguptaa13@gmail.com**
-- 📄 Hobbies (Painting,Sketching and Speed Cubing)
+- 📄 Hobbies (painting,sketching and speed cubing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
